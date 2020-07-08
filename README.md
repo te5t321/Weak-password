@@ -15,3 +15,4 @@ XSS测试----------------XSS attack
 算得上比较全的字典文件了
 
 A compare complete dictionary file
+From TgeaUs
